@@ -1,0 +1,7 @@
+[submodule "ki-lime-pi-pico"]
+	path = pcb/project-libraries/ki-lime-pi-pico
+	url = https://github.com/recursivenomad/ki-lime-pi-to-go.git
+	shallow = true
+[submodule "JDY-08"]
+	path = JDY-08
+	url = https://github.com/kichMan/JDY-08.git

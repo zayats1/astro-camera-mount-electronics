@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_Module_RaspberryPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/pcb/project-libraries/ki-lime-pi-pico/kicad/project-libraries/RaspberryPi_Pico/MCU_Module_RaspberryPi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "jdy-08")(type "Legacy")(uri "${KIPRJMOD}/JDY-08/KiCAD/jdy-08.lib")(options "")(descr ""))
+)
